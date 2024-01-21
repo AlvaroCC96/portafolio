@@ -8,7 +8,7 @@ export const Hero = () => {
 
         <h2>Soy &Aacute;lvaro Castillo.</h2>
         <p>
-        Soy un desarrollador FullStack proactivo, con una fuerte capacidad de adaptación al cambio y 
+        Desarrollador FullStack proactivo, con una fuerte capacidad de adaptación al cambio y 
         una disposici&oacute;n constante para aprender nuevas tecnolog&iacute;as relevantes en el mercado. 
         Mi meta es contribuir significativamente en mi entorno de trabajo, aportando mis conocimientos y habilidades, 
         adem&aacute;s de buscar un crecimiento continuo tanto a nivel personal como profesional.
