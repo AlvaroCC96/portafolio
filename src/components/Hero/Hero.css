@@ -140,6 +140,11 @@
         bottom: 2rem;
         right: 2rem;
     }
+    .tech-icon-list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
 }
 
 @keyframes fadeInUp {

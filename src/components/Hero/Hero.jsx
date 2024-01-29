@@ -16,20 +16,32 @@ export const Hero = () => {
       </div>
 
       <div className="hero-img">
-        <div>
-          <div className="tech-icon">
-            <img src="./assets/images/11.jpg" alt="" />
-          </div>
+        
+      <div>
           <img id="profile-img" src="./assets/images/11.jpg" alt="" />
+          
         </div>
 
-        <div>
+        <div className='tech-icon-list'>
           <div className="tech-icon">
-            <img src="./assets/images/01.png" alt="" />
+            <img src="./assets/images/laravel.png" alt="laravel" />
           </div>
           <div className="tech-icon">
-            <img src="./assets/images/01.png" alt="" />
+            <img src="./assets/images/python.png" alt="python" />
           </div>
+          <div className="tech-icon">
+            <img src="./assets/images/aws.png" alt="aws" />
+          </div>
+          <div className="tech-icon">
+            <img src="./assets/images/mysql.png" alt="mysql" />
+          </div>
+          <div className="tech-icon">
+            <img src="./assets/images/postgresql.png" alt="postgresql" />
+          </div>
+          <div className="tech-icon">
+            <img src="./assets/images/git.png" alt="git" />
+          </div>
+          
         </div>
       </div>
     </section>

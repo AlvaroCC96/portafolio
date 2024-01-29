@@ -8,7 +8,7 @@ function App() {
     <>
       <NavBar/>
       <div className='container'>
-      <Hero/>
+        <Hero/>
       </div>
     </>
   )
